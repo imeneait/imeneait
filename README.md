@@ -75,6 +75,13 @@ I am an **AI Research Engineer**. I work on **Safety AI** for social impact, **A
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imeneait&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
   <br/><br/>
 </div>
+### Don't EAT all my contributions !
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imeneait/imeneait/output/github-snake-dark.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/imeneait/imeneait/output/github-snake.svg" />
+  </picture>
+</div>
 <!-- Animated Colorful Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1982C4,33:8AC926,66:FFCA3A,100:FF595E&height=120&section=footer" width="100%" />
