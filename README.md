@@ -1,8 +1,4 @@
 <div align="center">
-
-<!-- Animated Vibrant Multi-Color Waving Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF595E,33:FFCA3A,66:8AC926,100:1982C4&height=210&section=header&text=Imene%20Ait%20Abdellah&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Explainable%20%26%20Agentic%20AI&descAlignY=58&descSize=16" width="100%" />
-
 <!-- Animated Typing Subtitle -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=FFCA3A&center=true&vCenter=true&width=680&lines=AI+%26+Data+Science+Engineer+%E2%9C%A8;Explainable+AI+%26+AI+for+Social+Impact+%F0%9F%94%AC;Agentic+Systems+%26+Industrial+GenAI+%F0%9F%A4%96;M2+IA2S+%40+UPEC+%7C+Paris+%F0%9F%93%8D" alt="Typing SVG" />
@@ -73,15 +69,11 @@ Hey there! I am an **AI Research Engineer**. I work on **Safety AI** for social 
 ![APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat&logo=fastapi&logoColor=white)
 
 ---
-
-### GitHub Analytics
-
 <div align="center">
   <!-- Live dynamic stats that load instantly without needing pre-generated files -->
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imeneait&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imeneait&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <!-- Animated Colorful Footer Wave -->
