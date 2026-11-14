@@ -24,13 +24,10 @@ Hey there ! I am a researcher.
 ### Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=imeneait&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imeneait&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/imeneait/imeneait/main/profile-summary-card-output/tokyonight/0-profile-details.svg" height="170" />
+  <img src="https://raw.githubusercontent.com/imeneait/imeneait/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="170" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imeneait&theme=tokyo-night&hide_border=true" />
-</div>
 
 ### Contribution snake
 
@@ -43,4 +40,4 @@ Hey there ! I am a researcher.
 
 ### Contact
 
-[LinkedIn](https://linkedin.com/in/imene-ait-abdellah) · theimeneart@gmail.com
+[LinkedIn](https://linkedin.com/in/imene-ait-abdellah) · [Kaggle]((https://www.kaggle.com/imeneaitabdellah))
