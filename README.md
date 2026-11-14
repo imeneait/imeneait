@@ -31,14 +31,14 @@
 
 Hey there! I am an **AI Research Engineer**. I work on **Safety AI** for social impact, **Agentic AI**, and **industrial deployment of trustworthy generative systems**. 
 
-- **Currently working on:** Auditing deceptive Chain-of-Thought in autonomous multi-step agents.
+- **Currently working on:** Auditing deceptive Chain-of-Thought in multi-step agents.
 - **Looking for:** R&D career in Applied AI.
 
 ---
 
-### 🎨 Technical Stack & Competences
+### Technical Stack & Competences
 
-#### 🤖 Agentic AI & Orchestration
+#### Agentic AI
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF5722?style=flat&logo=openai&logoColor=white)
@@ -46,7 +46,7 @@ Hey there! I am an **AI Research Engineer**. I work on **Safety AI** for social 
 ![Azure AI](https://img.shields.io/badge/Azure_AI-0089D6?style=flat&logo=microsoftazure&logoColor=white)
 ![Chain-of-Thought](https://img.shields.io/badge/Chain_of_Thought-9C27B0?style=flat)
 
-#### 🧠 Machine Learning, Deep Learning & GenAI
+#### Machine Learning, Deep Learning & GenAI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
@@ -54,13 +54,13 @@ Hey there! I am an **AI Research Engineer**. I work on **Safety AI** for social 
 ![SSL & Few-Shot](https://img.shields.io/badge/SSL_%7C_Few_Shot-E91E63?style=flat)
 ![Generative Models](https://img.shields.io/badge/Generative_Models-673AB7?style=flat)
 
-#### 🛡️ Evaluation, Reliability & Explainability
+#### Evaluation, Reliability & Explainability
 ![Adversarial Testing](https://img.shields.io/badge/Adversarial_Testing-D32F2F?style=flat)
 ![Concept Drift](https://img.shields.io/badge/Concept_Drift-F57C00?style=flat)
 ![Calibration](https://img.shields.io/badge/Calibration_(ECE)-7B1FA2?style=flat)
 ![Benchmarking](https://img.shields.io/badge/Benchmarking-388E3C?style=flat)
 
-#### ⚙️ Languages, Data & MLOps Engineering
+#### Languages, Data & MLOps Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++/CUDA](https://img.shields.io/badge/C%2B%2B%2FCUDA-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -74,25 +74,15 @@ Hey there! I am an **AI Research Engineer**. I work on **Safety AI** for social 
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <!-- Live dynamic stats that load instantly without needing pre-generated files -->
-  <img src="https://github-readme-stats.vercel.app/api?username=imeneait&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imeneait&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imeneait&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
-
----
-
-### Contact
-
-<p align="center">
-  <a href="https://linkedin.com/in/imene-ait-abdellah">LinkedIn</a> · 
-  <a href="https://www.kaggle.com/imeneaitabdellah">Kaggle</a>
-</p>
 
 <!-- Animated Colorful Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1982C4,33:8AC926,66:FFCA3A,100:FF595E&height=120&section=footer" width="100%" />
