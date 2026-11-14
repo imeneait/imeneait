@@ -1,25 +1,25 @@
 <div align="center">
 
-<!-- Animated Pink Waving Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FF69B4,100:FF1493&height=210&section=header&text=Imene%20Ait%20Abdellah&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Explainable%20%26%20Agentic%20AI&descAlignY=58&descSize=16" width="100%" />
+<!-- Animated Pastel Beige & Rose Waving Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E3D5CA,50:E5989B,100:B5838D&height=210&section=header&text=Imene%20Ait%20Abdellah&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Explainable%20%26%20Agentic%20AI&descAlignY=58&descSize=16" width="100%" />
 
-<!-- Animated Pink Typing Subtitle -->
+<!-- Animated Dusty Rose Typing Subtitle -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=FF1493&center=true&vCenter=true&width=680&lines=AI+%26+Data+Science+Engineer+%E2%9C%A8;Explainable+AI+%26+AI+for+Social+Impact+%F0%9F%94%AC;Agentic+Systems+%26+Industrial+GenAI+%F0%9F%A4%96;M2+IA2S+%40+UPEC+%7C+Paris+%F0%9F%93%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=B5838D&center=true&vCenter=true&width=680&lines=AI+%26+Data+Science+Engineer+%E2%9C%A8;Explainable+AI+%26+AI+for+Social+Impact+%F0%9F%94%AC;Agentic+Systems+%26+Industrial+GenAI+%F0%9F%A4%96;M2+IA2S+%40+UPEC+%7C+Paris+%F0%9F%93%8D" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social & Contact Pills -->
+<!-- Social & Contact Pills (Soft Nude/Rose Tones) -->
 <p>
   <a href="https://linkedin.com/in/imene-ait-abdellah">
-    <img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-B5838D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.kaggle.com/imeneaitabdellah">
-    <img src="https://img.shields.io/badge/Kaggle-FF69B4?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+    <img src="https://img.shields.io/badge/Kaggle-E5989B?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
   <a href="mailto:theimeneart@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-DB7093?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email_Me-D8C2B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -36,55 +36,53 @@ Hey there! I am an **AI & Data Science Engineer** and **M2 IA2S researcher at UP
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 💖 Technical Stack & Competences
+### 🩰 Technical Stack & Competences
 
 #### 🤖 Agentic AI & Orchestration
-![LangChain](https://img.shields.io/badge/LangChain-FF1493?style=for-the-badge&logo=langchain&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-FF69B4?style=for-the-badge&logo=microsoft&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-E75480?style=for-the-badge&logo=openai&logoColor=white)
-![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-DB7093?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Azure_AI-C71585?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Chain-of-Thought](https://img.shields.io/badge/Chain--of--Thought_&_Self--Correction-FF85A2?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-B5838D?style=for-the-badge&logo=langchain&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-E5989B?style=for-the-badge&logo=microsoft&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-D4A5A5?style=for-the-badge&logo=openai&logoColor=white)
+![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-D8C2B5?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure_AI-C2B2A3?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Chain-of-Thought](https://img.shields.io/badge/Chain--of--Thought_%26_Self--Correction-E2A3B0?style=for-the-badge)
 
 #### 🧠 Machine Learning, Deep Learning & GenAI
-![PyTorch](https://img.shields.io/badge/PyTorch-FF1493?style=for-the-badge&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers_&_LLMs-FF69B4?style=for-the-badge&logo=huggingface&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-E75480?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-DB7093?style=for-the-badge)
-![SSL & Few-Shot](https://img.shields.io/badge/SSL_%7C_Few--Shot_%7C_Zero--Shot-C71585?style=for-the-badge)
-![Generative Models](https://img.shields.io/badge/Generative_Models_&_Prompt_Eng-FF85A2?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-B5838D?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers_%26_LLMs-E5989B?style=for-the-badge&logo=huggingface&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-D4A5A5?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-D8C2B5?style=for-the-badge)
+![SSL & Few-Shot](https://img.shields.io/badge/SSL_%7C_Few--Shot_%7C_Zero--Shot-C2B2A3?style=for-the-badge)
+![Generative Models](https://img.shields.io/badge/Generative_Models_%26_Prompt_Eng-E2A3B0?style=for-the-badge)
 
 #### 🛡️ Evaluation, Reliability & Explainability
-![Adversarial Testing](https://img.shields.io/badge/Adversarial_Testing-FF1493?style=for-the-badge)
-![Concept Drift](https://img.shields.io/badge/Concept_Drift_Detection-FF69B4?style=for-the-badge)
-![Calibration](https://img.shields.io/badge/Calibration_(ECE)_&_MC_Dropout-E75480?style=for-the-badge)
-![Benchmarking](https://img.shields.io/badge/AUC--ROC/PR_&_KPI_Benchmarking-DB7093?style=for-the-badge)
+![Adversarial Testing](https://img.shields.io/badge/Adversarial_Testing-B5838D?style=for-the-badge)
+![Concept Drift](https://img.shields.io/badge/Concept_Drift_Detection-E5989B?style=for-the-badge)
+![Calibration](https://img.shields.io/badge/Calibration_(ECE)_%26_MC_Dropout-D4A5A5?style=for-the-badge)
+![Benchmarking](https://img.shields.io/badge/AUC--ROC/PR_%26_KPI_Benchmarking-D8C2B5?style=for-the-badge)
 
 #### ⚙️ Languages, Data & MLOps Engineering
-![Python](https://img.shields.io/badge/Python-FF1493?style=for-the-badge&logo=python&logoColor=white)
-![C++/CUDA](https://img.shields.io/badge/C%2B%2B%20%2F%20CUDA-FF69B4?style=for-the-badge&logo=nvidia&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E75480?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-DB7093?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-C71585?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-FF1493?style=for-the-badge&logo=kubernetes&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-FF69B4?style=for-the-badge&logo=githubactions&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-E75480?style=for-the-badge&logo=apachehadoop&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-DB7093?style=for-the-badge&logo=linux&logoColor=white)
-![APIs](https://img.shields.io/badge/REST_APIs-C71585?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-B5838D?style=for-the-badge&logo=python&logoColor=white)
+![C++/CUDA](https://img.shields.io/badge/C%2B%2B%20%2F%20CUDA-E5989B?style=for-the-badge&logo=nvidia&logoColor=white)
+![Java](https://img.shields.io/badge/Java-D4A5A5?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-D8C2B5?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-C2B2A3?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-B5838D?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-E5989B?style=for-the-badge&logo=githubactions&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-D4A5A5?style=for-the-badge&logo=apachehadoop&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-D8C2B5?style=for-the-badge&logo=linux&logoColor=white)
+![APIs](https://img.shields.io/badge/REST_APIs-C2B2A3?style=for-the-badge&logo=fastapi&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Switched to rose_pine theme for soft pinkish/rose aesthetics -->
+  <!-- Soft rose-pine/beige aesthetic stats -->
   <img src="https://raw.githubusercontent.com/imeneait/imeneait/main/profile-summary-card-output/rose_pine/0-profile-details.svg" height="175" />
   <img src="https://raw.githubusercontent.com/imeneait/imeneait/main/profile-summary-card-output/rose_pine/2-most-commit-language.svg" height="175" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imeneait&theme=rose&hide_border=true&ring=FF1493&fire=FF69B4&currStreakLabel=FF1493" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imeneait&theme=rose&hide_border=true&ring=B5838D&fire=E5989B&currStreakLabel=B5838D" alt="GitHub Streak" />
 </div>
-
-
 
 ### Don't EAT all my contributions !
 
@@ -97,4 +95,7 @@ Hey there! I am an **AI & Data Science Engineer** and **M2 IA2S researcher at UP
 
 ### Contact
 
-[LinkedIn](https://linkedin.com/in/imene-ait-abdellah) · [Kaggle]((https://www.kaggle.com/imeneaitabdellah))
+[LinkedIn](https://linkedin.com/in/imene-ait-abdellah) · [Kaggle](https://www.kaggle.com/imeneaitabdellah)
+
+<!-- Animated Pastel Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B5838D,50:E5989B,100:E3D5CA&height=120&section=footer" width="100%" />
