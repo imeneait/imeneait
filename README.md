@@ -29,10 +29,10 @@
 
 ### 🌸 About Me
 
-Hey there! I am an **AI & Data Science Engineer** and **M2 IA2S researcher at UPEC (Paris)**[cite: 1]. My work focuses on **Explainable AI (XAI)**[cite: 1], **Agentic AI coordination**, and **industrial deployment of trustworthy generative systems**[cite: 1]. 
+Hey there! I am an **AI Research Engineer** . I work on **Safety AI** for social implact, **Agentic AI**, and **industrial deployment of trustworthy generative systems**. 
 
-- 🔭 **Currently working on:** Auditing deceptive Chain-of-Thought in autonomous multi-step agents[cite: 1].
-- 🎯 **Looking for:** A 6-month end-of-studies R&D internship in Applied AI / Industrial Agentic Systems starting **February/March 2027**[cite: 1].
+- **Currently working on:** Auditing deceptive Chain-of-Thought in autonomous multi-step agents.
+- **Looking for:**  R&D career in Applied AI.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -46,32 +46,40 @@ Hey there! I am an **AI & Data Science Engineer** and **M2 IA2S researcher at UP
 ![Azure AI](https://img.shields.io/badge/Azure_AI-C2B2A3?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Chain-of-Thought](https://img.shields.io/badge/Chain--of--Thought_%26_Self--Correction-E2A3B0?style=for-the-badge)
 
+#### Machine Learning, Deep Learning & GenAI
+#### 🤖 Agentic AI & Orchestration
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat&logo=microsoft&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5722?style=flat&logo=openai&logoColor=white)
+![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-512BD4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure_AI-0089D6?style=flat&logo=microsoftazure&logoColor=white)
+![Chain-of-Thought](https://img.shields.io/badge/Chain_of_Thought-9C27B0?style=flat)
+
 #### 🧠 Machine Learning, Deep Learning & GenAI
-![PyTorch](https://img.shields.io/badge/PyTorch-B5838D?style=for-the-badge&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers_%26_LLMs-E5989B?style=for-the-badge&logo=huggingface&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-D4A5A5?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-D8C2B5?style=for-the-badge)
-![SSL & Few-Shot](https://img.shields.io/badge/SSL_%7C_Few--Shot_%7C_Zero--Shot-C2B2A3?style=for-the-badge)
-![Generative Models](https://img.shields.io/badge/Generative_Models_%26_Prompt_Eng-E2A3B0?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-4CAF50?style=flat)
+![SSL & Few-Shot](https://img.shields.io/badge/SSL_%7C_Few_Shot-E91E63?style=flat)
+![Generative Models](https://img.shields.io/badge/Generative_Models-673AB7?style=flat)
 
 #### 🛡️ Evaluation, Reliability & Explainability
-![Adversarial Testing](https://img.shields.io/badge/Adversarial_Testing-B5838D?style=for-the-badge)
-![Concept Drift](https://img.shields.io/badge/Concept_Drift_Detection-E5989B?style=for-the-badge)
-![Calibration](https://img.shields.io/badge/Calibration_(ECE)_%26_MC_Dropout-D4A5A5?style=for-the-badge)
-![Benchmarking](https://img.shields.io/badge/AUC--ROC/PR_%26_KPI_Benchmarking-D8C2B5?style=for-the-badge)
+![Adversarial Testing](https://img.shields.io/badge/Adversarial_Testing-D32F2F?style=flat)
+![Concept Drift](https://img.shields.io/badge/Concept_Drift-F57C00?style=flat)
+![Calibration](https://img.shields.io/badge/Calibration_(ECE)-7B1FA2?style=flat)
+![Benchmarking](https://img.shields.io/badge/Benchmarking-388E3C?style=flat)
 
 #### ⚙️ Languages, Data & MLOps Engineering
-![Python](https://img.shields.io/badge/Python-B5838D?style=for-the-badge&logo=python&logoColor=white)
-![C++/CUDA](https://img.shields.io/badge/C%2B%2B%20%2F%20CUDA-E5989B?style=for-the-badge&logo=nvidia&logoColor=white)
-![Java](https://img.shields.io/badge/Java-D4A5A5?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-D8C2B5?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-C2B2A3?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-B5838D?style=for-the-badge&logo=kubernetes&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-E5989B?style=for-the-badge&logo=githubactions&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-D4A5A5?style=for-the-badge&logo=apachehadoop&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-D8C2B5?style=for-the-badge&logo=linux&logoColor=white)
-![APIs](https://img.shields.io/badge/REST_APIs-C2B2A3?style=for-the-badge&logo=fastapi&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++/CUDA](https://img.shields.io/badge/C%2B%2B%2FCUDA-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat&logo=fastapi&logoColor=white)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 📊 GitHub Analytics
