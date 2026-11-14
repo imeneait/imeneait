@@ -74,7 +74,7 @@ Hey there! I am an **AI & Data Science Engineer** and **M2 IA2S researcher at UP
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <!-- Switched to rose_pine theme for soft pinkish/rose aesthetics -->
@@ -84,20 +84,9 @@ Hey there! I am an **AI & Data Science Engineer** and **M2 IA2S researcher at UP
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imeneait&theme=rose&hide_border=true&ring=FF1493&fire=FF69B4&currStreakLabel=FF1493" alt="GitHub Streak" />
 </div>
 
-### 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imeneait/imeneait/output/github-snake-dark.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/imeneait/imeneait/output/github-snake.svg" />
-  </picture>
-</div>
-
-<!-- Animated Pink Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:FF69B4,100:FFB6C1&height=120&section=footer" width="100%" />
 
 
-### Don't EAT all my contributions pleeeeease !
+### Don't EAT all my contributions !
 
 <div align="center">
   <picture>
