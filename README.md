@@ -47,7 +47,7 @@ Hey there! I am an **AI Research Engineer** . I work on **Safety AI** for social
 ![Chain-of-Thought](https://img.shields.io/badge/Chain--of--Thought_%26_Self--Correction-E2A3B0?style=for-the-badge)
 
 #### Machine Learning, Deep Learning & GenAI
-#### 🤖 Agentic AI & Orchestration
+#### Agentic AI & Orchestration
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF5722?style=flat&logo=openai&logoColor=white)
@@ -55,7 +55,7 @@ Hey there! I am an **AI Research Engineer** . I work on **Safety AI** for social
 ![Azure AI](https://img.shields.io/badge/Azure_AI-0089D6?style=flat&logo=microsoftazure&logoColor=white)
 ![Chain-of-Thought](https://img.shields.io/badge/Chain_of_Thought-9C27B0?style=flat)
 
-#### 🧠 Machine Learning, Deep Learning & GenAI
+#### Machine Learning, Deep Learning & GenAI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
@@ -63,13 +63,13 @@ Hey there! I am an **AI Research Engineer** . I work on **Safety AI** for social
 ![SSL & Few-Shot](https://img.shields.io/badge/SSL_%7C_Few_Shot-E91E63?style=flat)
 ![Generative Models](https://img.shields.io/badge/Generative_Models-673AB7?style=flat)
 
-#### 🛡️ Evaluation, Reliability & Explainability
+#### Evaluation, Reliability & Explainability
 ![Adversarial Testing](https://img.shields.io/badge/Adversarial_Testing-D32F2F?style=flat)
 ![Concept Drift](https://img.shields.io/badge/Concept_Drift-F57C00?style=flat)
 ![Calibration](https://img.shields.io/badge/Calibration_(ECE)-7B1FA2?style=flat)
 ![Benchmarking](https://img.shields.io/badge/Benchmarking-388E3C?style=flat)
 
-#### ⚙️ Languages, Data & MLOps Engineering
+#### Languages, Data & MLOps Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++/CUDA](https://img.shields.io/badge/C%2B%2B%2FCUDA-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -82,14 +82,16 @@ Hey there! I am an **AI Research Engineer** . I work on **Safety AI** for social
 ![APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat&logo=fastapi&logoColor=white)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
-  <!-- Soft rose-pine/beige aesthetic stats -->
-  <img src="https://raw.githubusercontent.com/imeneait/imeneait/main/profile-summary-card-output/rose_pine/0-profile-details.svg" height="175" />
-  <img src="https://raw.githubusercontent.com/imeneait/imeneait/main/profile-summary-card-output/rose_pine/2-most-commit-language.svg" height="175" />
+  <!-- Vibrant multi-colored profile summary and stats cards -->
+  <img src="https://raw.githubusercontent.com/imeneait/imeneait/main/profile-summary-card-output/tokyonight/0-profile-details.svg" height="175" />
+  <img src="https://raw.githubusercontent.com/imeneait/imeneait/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="175" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imeneait&theme=rose&hide_border=true&ring=B5838D&fire=E5989B&currStreakLabel=B5838D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imeneait&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imeneait&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
 </div>
 
 ### Don't EAT all my contributions !
