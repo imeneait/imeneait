@@ -68,14 +68,7 @@ I am an **AI Research Engineer**. I work on **Safety AI** for social impact, **A
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat&logo=fastapi&logoColor=white)
 
----
-<div align="center">
-  <!-- Live dynamic stats that load instantly without needing pre-generated files -->
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imeneait&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
-  <br/><br/>
-</div>
-## Don't EAT all my contributions !
+### Don't EAT all my contributions !
 
 <div align="center">
   <picture>
@@ -83,5 +76,14 @@ I am an **AI Research Engineer**. I work on **Safety AI** for social impact, **A
     <img alt="snake" src="https://raw.githubusercontent.com/imeneait/imeneait/output/github-snake.svg" />
   </picture>
 </div>
+---
+<div align="center">
+  <!-- Live dynamic stats that load instantly without needing pre-generated files -->
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imeneait&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
+  <br/><br/>
+</div>
+
+
 <!-- Animated Colorful Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1982C4,33:8AC926,66:FFCA3A,100:FF595E&height=120&section=footer" width="100%" />
