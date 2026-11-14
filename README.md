@@ -75,7 +75,7 @@ I am an **AI Research Engineer**. I work on **Safety AI** for social impact, **A
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imeneait&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
   <br/><br/>
 </div>
-### Don't EAT all my contributions !
+## Don't EAT all my contributions !
 
 <div align="center">
   <picture>
