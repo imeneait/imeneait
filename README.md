@@ -10,7 +10,7 @@
 
 ### About
 
-I'm doing a Master 2 in AI (IA2S) at UPEC and looking for a 6-month internship from February 2027 in applied industrial AI. My research is on explainable AI and on auditing agentic systems. Before that, I worked on deepfake detection with UQO (Canada) and built a production RAG pipeline at Huawei Algeria.
+Hey there ! I am a researcher.
 
 ### Stack
 
