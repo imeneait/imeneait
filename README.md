@@ -1,7 +1,7 @@
 <div align="center">
 <!-- Animated Typing Subtitle -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=FFCA3A&center=true&vCenter=true&width=680&lines=AI+Research+Engineer+%E2%9C%A8;Explainable+AI+%26+AI+for+Social+Impact+%F0%9F%94%AC;Agentic+Systems+%26+Industrial+GenAI+%F0%9F%A4%96;M2+IA2S+%40+UPEC+%7C+Paris+%F0%9F%93%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=FFCA3A&center=true&vCenter=true&width=680&lines=AI+Research+Engineer+%E2%9C%A8;AI+for+Social+Impact+%F0%9F%94%AC;Agentic+Systems+%26+Industrial+GenAI;Paris+%F0%9F%93%8D" alt="Typing SVG" />
 </a>
 
 <br/><br/>
