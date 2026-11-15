@@ -93,9 +93,4 @@ My interests include building reliable AI systems, understanding their behavior,
 </picture>
 
 </div>
-<!-- Footer -->
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:1982C4,33:8AC926,66:FFCA3A,100:FF595E&height=120&section=footer"
-  width="100%"
-  alt="Footer wave"
-/>
+
