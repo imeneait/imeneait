@@ -93,20 +93,6 @@ My interests include building reliable AI systems, understanding their behavior,
 </picture>
 
 </div>
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=imeneait&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7"
-  alt="GitHub Streak"
-/>
-
-</div>
-
 <!-- Footer -->
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:1982C4,33:8AC926,66:FFCA3A,100:FF595E&height=120&section=footer"
