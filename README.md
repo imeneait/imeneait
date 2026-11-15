@@ -35,7 +35,7 @@ My interests include building reliable AI systems, understanding their behavior,
 
 ---
 
-## 🛠️ Technical Stack & Expertise
+## Technical Stack & Expertise
 
 ### Agentic AI & Generative Systems
 
