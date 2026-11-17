@@ -26,7 +26,7 @@
 
 ## 🌸 Azul!
 
-I'm an **AI Research Engineer** working at the intersection of **Trustworthy AI, Agentic Systems, and Industrial Generative AI**.
+I'm an **AI Research Engineer** working in **Trustworthy AI, Agentic Systems, and Industrial Generative AI**.
 
 My interests include building reliable AI systems, understanding their behavior, and making their decisions more transparent and trustworthy.
 
